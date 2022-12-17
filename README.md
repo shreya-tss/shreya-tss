@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @shreya-tss
+<div id="header" align="center">
+ <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F705235622870980396%2F&psig=AOvVaw0j1cmYbd0RlY15iO26dpra&ust=1671336791954000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjSpO_k__sCFQAAAAAdAAAAABBj.gif" width=90>
+ </div>
+
+About Me:
+- 🙋🏽‍♀️ Hi, I’m Shreya.S
 - 👀 I’m interested in acquiring knowledge of different fields of computer science.
 - 🌱 I’m currently learning full stack development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🎓Computer Science student at PES University Bengaluru.
+
 
 <!---
 shreya-tss/shreya-tss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
