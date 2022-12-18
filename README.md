@@ -1,7 +1,7 @@
+<!DOCTYPE html>
 <div id="header" align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F705235622870980396%2F&psig=AOvVaw0_c5HGkQ-dgaHeP_IpQQCP&ust=1671339557490000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLiys5Xv__sCFQAAAAAdAAAAABAE.gif" width=90>
- </div>
-
+    <img src="https://tenor.com/view/programming-gif-25868426" width=90>
+    </div>
 About Me:
 - 🙋🏽‍♀️ Hi, I’m Shreya.S
 - 👀 I’m interested in acquiring knowledge of different fields of computer science.
