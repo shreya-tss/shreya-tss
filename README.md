@@ -3,7 +3,6 @@
 About Me:
 - 🙋🏽‍♀️ Hi, I’m Shreya.S
 - 👀 I’m interested in acquiring knowledge of different fields of computer science.
-- 🌱 I’m currently learning full stack development.
 - 🎓Computer Science student at PES University Bengaluru.
 
 
