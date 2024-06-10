@@ -10,7 +10,7 @@ I'm passionate about exploring and applying concepts in Data Structures and Algo
 
 
 Currently:
-* I'm working on an exciting project that leverages Deep Learning and Neural Networks.
+* I'm working on a project that leverages Deep Learning and Neural Networks.
 * Enhancing my expertise in Machine Learning and Data Structures.
 * Developing projects in DSA, Web Development, and Machine Learning.
 * Seeking collaboration on impactful projects
@@ -18,8 +18,11 @@ Currently:
 ### Connect with me ###
 <a href="https://www.linkedin.com/in/shreya-s-896a58251/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="Description of your image" height=30>
 </a>
-<a href=" mail to:tss.shreya@gmail.com">  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Description of your image" height=30>
+<a href=" mailto:tss.shreya@gmail.com">  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Description of your image" height=30>
 </a>
+<a href="https://www.instagram.com/shreya_s_26_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Description of your image" height=30>
+</a>
+
 
 
 Feel free to explore my repositories and connect with me for collaboration opportunities!
