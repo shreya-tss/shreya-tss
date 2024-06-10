@@ -16,7 +16,7 @@ Currently:
 * Seeking collaboration on impactful projects
 
 ### Connect with me ###
-<a href="https://www.linkedin.com/in/shreya-s-896a58251/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="Description of your image">
+<a href="https://www.linkedin.com/in/shreya-s-896a58251/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="Description of your image" height=50>
 </a>
 
 
