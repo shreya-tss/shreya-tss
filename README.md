@@ -4,10 +4,10 @@
 </img>
 Welcome to my GitHub profile! I'm passionate about exploring and applying concepts in Data Structures and Algorithms (DSA), Web Development, and Machine Learning. 
 Currently:
-* Currently, I'm working on an exciting project that leverages Deep Learning and Neural Networks.
-* Enhancing my expertise in Machine Learning and Data Structures.
-* Developing projects in DSA, Web Development, and Machine Learning.
-* Seeking collaboration on impactful projects
+*  I'm working on an exciting project that leverages Deep Learning and Neural Networks.
+*  Enhancing my expertise in Machine Learning and Data Structures.
+*  Developing projects in DSA, Web Development, and Machine Learning.
+*  Seeking collaboration on impactful projects
 
 ### Connect with me ###
 
