@@ -1,6 +1,6 @@
 ## Hi,I'm Shreya S!👋
 ### A BTECH CSE Student from PES University  ###
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F17188530-Female-working-on-a-computer-Animation-explainer-video%2Fattachments%2F12288316%3Fmode%3Dmedia&psig=AOvVaw2xUiX2r-9JfKN7DYuSa564&ust=1718089366714000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjkiOS70IYDFQAAAAAdAAAAABA7"  alt="girl coding"  align="right" height="150" >
+<img src="https://cdn.dribbble.com/users/3234572/screenshots/17188530/media/891a696e331c7224570476a47f929d6e.gif7"  alt="girl coding"  align="right" height="150" >
 </img>
 Welcome to my GitHub profile! I'm passionate about exploring and applying concepts in Data Structures and Algorithms (DSA), Web Development, and Machine Learning. 
 Currently:
