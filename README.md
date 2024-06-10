@@ -23,6 +23,11 @@ Currently:
   <a href="https://www.instagram.com/shreya_s_26_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Description of your image" height=50 
  style="margin: 30px">
   </a>
+
+![image](https://github.com/shreya-tss/shreya-tss/assets/114325137/346f5989-b0a5-4e5d-b1aa-19b4ce9aeafa)
+![image](https://github.com/shreya-tss/shreya-tss/assets/114325137/dfbd05fc-9bb5-4a63-9a26-36d36a6eedda)
+
+
  
 
 
