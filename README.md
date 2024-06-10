@@ -7,6 +7,8 @@
 
 Welcome to my GitHub profile! 
 I'm passionate about exploring and applying concepts in Data Structures and Algorithms (DSA), Web Development, and Machine Learning. 
+
+
 Currently:
 * I'm working on an exciting project that leverages Deep Learning and Neural Networks.
 * Enhancing my expertise in Machine Learning and Data Structures.
@@ -14,7 +16,8 @@ Currently:
 * Seeking collaboration on impactful projects
 
 ### Connect with me ###
-
+<a href="https://www.linkedin.com/in/shreya-s-896a58251/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="Description of your image">
+</a>
 
 
 Feel free to explore my repositories and connect with me for collaboration opportunities!
