@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I'm Shreya S
+![image](https://github.com/shreya-tss/shreya-tss/assets/114325137/69bed807-1fd7-4e1b-bf32-e2308f31435d)
 
 <!--
 **shreya-tss/shreya-tss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
