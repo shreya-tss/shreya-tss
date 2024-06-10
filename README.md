@@ -20,7 +20,7 @@ Currently:
 </a>
   <a href=" mailto:tss.shreya@gmail.com">  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Description of your image" height=50 style="margin: 30px">
   </a>
-  <a href="https://www.instagram.com/shreya_s_26_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Description of your image" height=30 
+  <a href="https://www.instagram.com/shreya_s_26_"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Description of your image" height=50 
  style="margin: 30px">
   </a>
  
