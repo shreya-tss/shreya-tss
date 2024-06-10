@@ -2,7 +2,7 @@
 ### A BTECH CSE Student from PES University  ###
 
 Welcome to my GitHub profile! I'm passionate about exploring and applying concepts in Data Structures and Algorithms (DSA), Web Development, and Machine Learning. Currently, I'm working on an exciting project that leverages Deep Learning and Neural Networks.
-<img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif"  alt="girl coding"  align="right" height="50" >
+<img src="https://i.pinimg.com/originals/0c/b0/ae/0cb0aec97240b7d9746073cd3ba6c26f.gif"  alt="girl coding"  align="right" height="150" >
 </img>
 
 Currently:
