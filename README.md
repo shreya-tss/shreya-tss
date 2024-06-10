@@ -1,6 +1,6 @@
 ## Hi,I'm Shreya S!👋
 ### A BTECH CSE Student from PES University  ###
-<img src="https://cdn.dribbble.com/users/3234572/screenshots/17188530/media/891a696e331c7224570476a47f929d6e.gif" alt="girl coding" >
+<img src="https://cdn.dribbble.com/users/3234572/screenshots/17188530/media/891a696e331c7224570476a47f929d6e.gif" alt="girl coding" height=150 >
 </img>
 
 
