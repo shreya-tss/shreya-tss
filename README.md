@@ -1,5 +1,14 @@
-## Hi there 👋, I'm Shreya S
-### A BTECH CS Student from PES University ###
+## Hi,I'm Shreya S!👋
+### A BTECH CSE Student from PES University  ###
+Welcome to my GitHub profile! I'm passionate about exploring and applying concepts in Data Structures and Algorithms (DSA), Web Development, and Machine Learning. Currently, I'm working on an exciting project that leverages Deep Learning and Neural Networks.
+Currently:
+* Enhancing my expertise in Machine Learning and Data Structures.
+* Developing projects in DSA, Web Development, and Machine Learning.
+* Seeking collaboration on impactful projects.
+Feel free to explore my repositories and connect with me for collaboration opportunities!
+
+
+  
 
 <!--
 **shreya-tss/shreya-tss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
