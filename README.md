@@ -16,7 +16,7 @@ Currently:
 
 ### Connect with me ###
 <a href="https://www.linkedin.com/in/shreya-s-896a58251/">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" alt="Description of your image" 
- height=30 style="margin: 30px">
+ height=50 style="margin: 30px">
 </a>
   <a href=" mailto:tss.shreya@gmail.com">  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Description of your image" height=30 style="margin: 30px">
   </a>
